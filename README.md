@@ -7,11 +7,11 @@ I'm a 21-year-old developer based in India, and I'm passionate about crafting di
  
 ## 📦 Toolbox
 
-**Frontend Development:** `HTML` `Css` `JavaScript` `JQUERY` `BootStrap` 
+**Languages:**  `JavaScript` `Java`  
  
 **Version Control:** `Git` `GitLab` 
 
-**Backend Development:** `Sql` `PostgreSQL`  
+**Web Technologies/Frameworks:** 'Html' 'Css' 'GitHub'  'JQuery' 'BootStrap' 'PostgreSQL' 
 
  
 ## ✨ Fun Facts 
