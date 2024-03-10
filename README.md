@@ -16,8 +16,8 @@ I'm a 21-year-old developer based in India, and I'm passionate about crafting di
  
 ## ✨ Fun Facts 
 
-- I somtimes think of codes in my sleep
-- 
+- I somtimes think of my code in my sleep.
+- I think i can be employed for work.
 
 
 ## 📫 Contact
