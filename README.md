@@ -11,7 +11,7 @@ I'm a 21-year-old developer based in India, and I'm passionate about crafting di
  
 **Version Control:** `Git` `GitLab` 
 
-**Web Technologies/Frameworks:** 'Html' 'Css' 'GitHub'  'JQuery' 'BootStrap' 'PostgreSQL' 
+**Web Technologies/Frameworks:** `Html` `Css` `GitHub`  `JQuery` `BootStrap` `PostgreSQL` 
 
  
 ## ✨ Fun Facts 
