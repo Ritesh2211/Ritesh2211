@@ -7,7 +7,7 @@ I'm a 21-year-old developer based in India, and I'm passionate about crafting di
  
 ## 📦 Toolbox
 
-**Languages:**  `JavaScript` `Java`  
+**Languages:**  `JavaScript` `Java`  `Sql`
  
 **Version Control:** `Git` `GitLab` 
 
