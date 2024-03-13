@@ -43,11 +43,9 @@
  
 <p>
  <img align="right" width="350" src="" alt="" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: riteshkatwe29@gmail.com<br/><br/>
- 
+ ✌️ &emsp; Enjoy doing programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love writing code and learn new features<br/><br/>
+ 📧 &emsp; Reach me out here: riteshkatwe29@gmail.com<br/><br/>
  </p>
 <br/>
 
@@ -83,11 +81,8 @@
 <p align="left">
   <a href="https://github.com/Ritesh2211?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-
 <br/>
 <hr/>
-<br/>
-
 <p align="center">
   <a href="https://github.com/Ritesh2211">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritesh2211&theme=radical&border=7F3FBF&background=0D1117" alt="Ritesh2211 GitHub streak"/>
