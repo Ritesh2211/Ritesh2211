@@ -74,8 +74,6 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br/>
-
 <!--## Top Open Source -
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/urfolio)
@@ -91,19 +89,19 @@
 
 <p align="center">
   <a href="https://github.com/Ritesh2211">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Ritesh's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritesh2211&theme=radical&border=7F3FBF&background=0D1117" alt="Ritesh2211 GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Ritesh2211">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ritesh2211&theme=radical" alt="Ritesh's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ritesh2211&theme=radical" alt="Ritesh2211 GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
     <a href="https://github.com/Ritesh2211"><img alt="Ritesh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Ritesh2211&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Ritesh2211"><img alt="Ritesh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ritesh's&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Ritesh2211"><img alt="Ritesh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ritesh2211&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
