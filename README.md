@@ -8,7 +8,6 @@
                 <b><a target="_blank" href="">Ritesh Katwe</a></b>
         </samp>
 </h3>
-
 <p align="center"> 
   <samp>
     <a href="https://www.google.com/search?q=Ritesh+Katwe">「 Google Me 」</a>
