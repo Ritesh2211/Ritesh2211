@@ -47,7 +47,7 @@
  📧 &emsp; Reach me out here: riteshkatwe29@gmail.com<br/><br/>
  </p>
 <br/>
-<img alt="" width="100%" src="https://miro.medium.com/v2/resize:fit:1400/0*s7-847-cMWNrfnyH.gif">
+<img alt="" width="100%" src="">
 
 # Use To Code
 
