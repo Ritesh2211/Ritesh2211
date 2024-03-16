@@ -35,12 +35,10 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Ritesh2211" />
  </a> 
 </p>
-<br />
-
 <!-- About Section -->
  # About me
  
-<p>
+ <p>
  <img align="right" width="350" src="" alt="" />
  ✌️ &emsp; Enjoy doing programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love writing code and learn new features<br/><br/>
