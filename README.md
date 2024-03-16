@@ -40,7 +40,7 @@
  # About me
  
  <p>
- <img align="right" width="350" src="" alt="" />
+ <img align="right" width="300" src="" alt="" />
  ✌️ &emsp; Enjoy doing programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love writing code and learn new features<br/><br/>
  📧 &emsp; Reach me out here: riteshkatwe29@gmail.com<br/><br/>
