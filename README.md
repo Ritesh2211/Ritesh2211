@@ -14,7 +14,6 @@
     <br>
     「 I am a full stack web application developer from <b>India</b> 」
     <br>
-    <br>
   </samp>
 </p>
 
@@ -38,14 +37,12 @@
 <!-- About Section -->
 
  # About me
- 
  <p>
  <img align="right" width="300" src="" alt="" />
  ✌️ &emsp; Enjoy doing programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love writing code and learn new features<br/><br/>
  📧 &emsp; Reach me out here: riteshkatwe29@gmail.com<br/><br/>
  </p>
-<img alt="" width="100%" src="">
 
 # Use To Code
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
