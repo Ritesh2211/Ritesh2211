@@ -8,8 +8,6 @@
                 <b><a target="_blank" href="">Ritesh Katwe</a></b>
         </samp>
 </h3>
-     <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="" />
-
 <p align="center"> 
   <samp>
     <a href="https://www.google.com/search?q=Ritesh+Katwe">「 Google Me 」</a>
@@ -40,6 +38,8 @@
 
  # About me
  <p>
+        <img align="right" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="" />
+
 👋 Hey there! I'm Ritesh, a digital architect hailing from India. With a blend of creativity and code, I craft digital experiences that spark curiosity and drive impact.
 
 🚀 Currently, I'm traversing the cosmos of Full stack web apps, pushing boundaries with React and node.js. I thrive on unraveling complexities, architecting elegant solutions, and turning ideas into reality.
