@@ -39,7 +39,7 @@
  # About me
  <p>
  <img align="right" width="300" src="" alt="" />
-👋 Hey there! I'm Ritesh, a digital architect hailing from [Your Location]. With a blend of creativity and code, I craft digital experiences that spark curiosity and drive impact.
+👋 Hey there! I'm Ritesh, a digital architect hailing from India. With a blend of creativity and code, I craft digital experiences that spark curiosity and drive impact.
 
 🚀 Currently, I'm traversing the cosmos of Full stack web apps, pushing boundaries with React and node.js. I thrive on unraveling complexities, architecting elegant solutions, and turning ideas into reality.
 
@@ -47,9 +47,7 @@
 
 📫 Let's connect across the digital ether! Swing by my corner of the web on riteshkatwe29@gamil.com , and let's engage in conversations about tech, creativity, or the mysteries of the universe.
 
-🌌 Join me on this cosmic journey as we shape the future, one line of code at a time. Together, let's weave dreams into existence and illuminate the digital universe with innovation and wonder.
-
-🚀 Thanks for dropping by my GitHub space! Explore, contribute, and let's co-create a future where the possibilities are as boundless as the cosmos.
+🌌 Thanks for dropping by my GitHub space! Explore, contribute, and let's co-create a future where the possibilities are as boundless as the cosmos.
 
 <!-- 
  ✌️ &emsp; Enjoy doing programming and sharing knowledge <br/><br/>
