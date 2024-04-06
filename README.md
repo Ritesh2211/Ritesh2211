@@ -39,27 +39,24 @@
  # About me
  <p>
  <img align="right" width="300" src="" alt="" />
-   ## About Me
+👋 Hey there! I'm Ritesh, a digital architect hailing from [Your Location]. With a blend of creativity and code, I craft digital experiences that spark curiosity and drive impact.
 
-👋 Hey there! I'm [Your Name], a digital architect hailing from [Your Location]. With a blend of creativity and code, I craft digital experiences that spark curiosity and drive impact.
+🚀 Currently, I'm traversing the cosmos of Full stack web apps, pushing boundaries with React and node.js. I thrive on unraveling complexities, architecting elegant solutions, and turning ideas into reality.
 
-🚀 Currently, I'm traversing the cosmos of [Your Current Projects/Focus Areas], pushing boundaries with [Specific Technologies/Tools]. I thrive on unraveling complexities, architecting elegant solutions, and turning ideas into reality.
+💻 I'm on a perpetual quest for mastery, constantly refining my craft to craft software that not only functions flawlessly but also delights the soul.
 
-💻 In my toolkit, you'll find a fusion of [Your Expertise/Experience], honed through [Specific Skills/Technologies]. I'm on a perpetual quest for mastery, constantly refining my craft to craft software that not only functions flawlessly but also delights the soul.
-
-🔍 Beyond the screen, I'm an avid [Your Hobbies/Interests]. Whether it's embarking on wilderness adventures or exploring the realms of literature, I find inspiration in the unconventional and the extraordinary.
-
-📫 Let's connect across the digital ether! Swing by my corner of the web on [Your Preferred Social Media/Professional Networks], and let's engage in conversations about tech, creativity, or the mysteries of the universe.
+📫 Let's connect across the digital ether! Swing by my corner of the web on riteshkatwe29@gamil.com , and let's engage in conversations about tech, creativity, or the mysteries of the universe.
 
 🌌 Join me on this cosmic journey as we shape the future, one line of code at a time. Together, let's weave dreams into existence and illuminate the digital universe with innovation and wonder.
 
 🚀 Thanks for dropping by my GitHub space! Explore, contribute, and let's co-create a future where the possibilities are as boundless as the cosmos.
 
+<!-- 
  ✌️ &emsp; Enjoy doing programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love writing code and learn new features<br/><br/>
  📧 &emsp; Reach me out here: riteshkatwe29@gmail.com<br/><br/>
  </p>
-
+-->
 # Use To Code
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
