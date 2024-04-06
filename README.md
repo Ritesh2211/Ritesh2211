@@ -8,14 +8,14 @@
                 <b><a target="_blank" href="">Ritesh Katwe</a></b>
         </samp>
 </h3>
+     <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="" />
+
 <p align="center"> 
   <samp>
     <a href="https://www.google.com/search?q=Ritesh+Katwe">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from <b>India</b> 」
     <br>
-     <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="" />
-
   </samp>
 </p>
 
