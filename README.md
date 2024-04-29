@@ -42,7 +42,7 @@
 
 👋 Hey there! I'm Ritesh, a digital architect hailing from India. With a blend of creativity and code, I craft digital experiences that spark curiosity and drive impact.
 
-🚀 Currently, I'm traversing the cosmos of Full stack web apps, pushing boundaries with React and node.js. I thrive on unraveling complexities, architecting elegant solutions, and turning ideas into reality.
+🚀 Currently, I'm traversing the cosmos of Full stack web apps, pushing boundaries with React and node.js and working on CryptoBucks app and Budget tracker using web technologies.
 
 💻 I'm on a perpetual quest for mastery, constantly refining my craft to craft software that not only functions flawlessly but also delights the soul.
 
