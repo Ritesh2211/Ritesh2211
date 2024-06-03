@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
- <a href="https://ritesh2211.github.io/Ritesh-ka-Portfolio/" target="blank">
+ <a href="https://riteshkatwe-portfolio.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Ritesh2211" />
  </a>
  <a href="https://www.linkedin.com/in/ritesh-katwe/" target="_blank">
