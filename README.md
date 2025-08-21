@@ -40,15 +40,15 @@
  <p>
         <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="" />
 
-👋 Hey there! I'm Ritesh, a digital architect hailing from India. With a blend of creativity and code, I craft digital experiences that spark curiosity and drive impact.
+<!--👋 Hey there! I'm Ritesh, a digital architect hailing from India. With a blend of creativity and code, I craft digital experiences that spark curiosity and drive impact.
 
-🚀 Currently, I'm traversing the cosmos of Full stack web apps, pushing boundaries with React and node.js and working on CryptoBucks app and Budget tracker using web technologies.
+🚀 Currently, I'm traversing the cosmos of Full stack web apps, pushing boundaries with React and node.js and working on CryptoBucks app and Budget tracker using web technologies.-->
 
 💻 I'm on a perpetual quest for mastery, constantly refining my craft to craft software that not only functions flawlessly but also delights the soul.
 
 📫 Let's connect across the digital ether! Swing by my corner of the web on riteshkatwe29@gamil.com , and let's engage in conversations about tech, creativity, or the mysteries of the universe.
 
-🌌 Thanks for dropping by my GitHub space! Explore, contribute, and let's co-create a future where the possibilities are as boundless as the cosmos.
+<!--🌌 Thanks for dropping by my GitHub space! Explore, contribute, and let's co-create a future where the possibilities are as boundless as the cosmos.-->
 
 <!-- 
  ✌️ &emsp; Enjoy doing programming and sharing knowledge <br/><br/>
